@@ -1,0 +1,280 @@
+,eezid,EEZName
+0,8,Albania
+1,12,Algeria
+2,16,American Samoa
+3,24,Angola
+4,28,Antigua & Barbuda
+5,32,Argentina
+6,36,Australia
+7,37,Macquarie Isl. (Australia)
+8,38,Lord Howe Isl. (Australia)
+9,44,Bahamas
+10,48,Bahrain
+11,50,Bangladesh
+12,52,Barbados
+13,56,Belgium
+14,60,Bermuda (UK)
+15,70,Bosnia & Herzegovina
+16,74,Bouvet Isl. (Norway)
+17,76,Brazil
+18,77,Trindade & Martim Vaz Isl. (Brazil)
+19,84,Belize
+20,86,Chagos Archipelago (UK)
+21,90,Solomon Isl.
+22,92,British Virgin Isl. (UK)
+23,96,Brunei Darussalam
+24,100,Bulgaria
+25,104,Myanmar
+26,111,Eritrea
+27,116,Cambodia
+28,120,Cameroon
+29,132,Cape Verde
+30,136,Cayman Isl. (UK)
+31,144,Sri Lanka
+32,152,Chile
+33,153,Easter Isl. (Chile)
+34,154,Desventuradas Isl. (Chile)
+35,155,Juan Fernandez Islands (Chile)
+36,156,China
+37,157,Taiwan
+38,162,Christmas Isl. (Australia)
+39,166,Cocos (Keeling) Isl. (Australia)
+40,174,Comoros Isl.
+41,175,Mayotte (France)
+42,178,"Congo, R. of"
+43,180,Congo (ex-Zaire)
+44,184,Cook Islands
+45,191,Croatia
+46,192,Cuba
+47,197,Cyprus (North)
+48,198,Cyprus (South)
+49,204,Benin
+50,212,Dominica
+51,214,Dominican Republic
+52,218,Ecuador
+53,219,Galapagos Isl. (Ecuador)
+54,222,El Salvador
+55,226,Equatorial Guinea
+56,233,Estonia
+57,234,Faeroe Isl. (Denmark)
+58,238,Falkland Isl. (UK)
+59,239,South Georgia & Sandwich Isl. (UK)
+60,242,Fiji
+61,246,Finland
+62,251,Mozambique Channel Isl. (France)
+63,252,Tromelin Isl. (France)
+64,254,French Guiana
+65,258,French Polynesia
+66,262,Djibouti
+67,266,Gabon
+68,268,Georgia
+69,270,Gambia
+70,274,Gaza Strip
+71,277,Germany (North Sea)
+72,278,Germany (Baltic Sea)
+73,288,Ghana
+74,300,Greece
+75,304,Greenland
+76,308,Grenada
+77,312,Guadeloupe  (France)
+78,316,Guam (USA)
+79,324,Guinea
+80,328,Guyana
+81,332,Haiti
+82,334,Heard & McDonald Isl. (Australia)
+83,344,Hong Kong (China)
+84,352,Iceland
+85,356,India (mainland)
+86,357,Andaman & Nicobar Isl. (India)
+87,361,Indonesia (Eastern)
+88,368,Iraq
+89,372,Ireland
+90,380,Italy
+91,384,Côte d'Ivoire
+92,388,Jamaica
+93,390,Japan (main islands)
+94,393,Japan (Daito Islands)
+95,396,Johnston Atoll (USA)
+96,400,Jordan
+97,404,Kenya
+98,410,Korea (South)
+99,414,Kuwait
+100,422,Lebanon
+101,428,Latvia
+102,430,Liberia
+103,434,Libya
+104,440,Lithuania
+105,450,Madagascar
+106,459,Malaysia (Peninsula West)
+107,460,Malaysia (Peninsula East)
+108,461,Malaysia (Sabah)
+109,462,Maldives
+110,463,Malaysia (Sarawak)
+111,470,Malta
+112,474,Martinique (France)
+113,478,Mauritania
+114,480,Mauritius
+115,488,Hawaii Northwest Islands (USA)
+116,500,Montserrat (UK)
+117,508,Mozambique
+118,512,Oman
+119,516,Namibia
+120,520,Nauru
+121,528,Netherlands
+122,540,New Caledonia (France)
+123,548,Vanuatu
+124,554,New Zealand
+125,555,Kermadec Isl. (New Zealand)
+126,566,Nigeria
+127,570,Niue (New Zealand)
+128,574,Norfolk Isl. (Australia)
+129,578,Norway
+130,579,Jan Mayen Isl. (Norway)
+131,580,Northern Marianas (USA)
+132,583,Micronesia (Federated States of)
+133,584,Marshall Isl.
+134,585,Palau
+135,586,Pakistan
+136,598,Papua New Guinea
+137,604,Peru
+138,608,Philippines
+139,612,Pitcairn (UK)
+140,616,Poland
+141,620,Portugal
+142,621,Madeira Isl. (Portugal)
+143,622,Azores Isl. (Portugal)
+144,624,Guinea-Bissau
+145,626,Timor Leste
+146,630,Puerto Rico (USA)
+147,634,Qatar
+148,638,Réunion (France)
+149,642,Romania
+150,645,Russia (Barents Sea)
+151,647,Russia (Black Sea)
+152,648,Russia (Baltic Sea)
+153,649,Russia (Far East)
+154,654,Saint Helena (UK)
+155,659,Saint Kitts & Nevis
+156,660,Anguilla (UK)
+157,662,Saint Lucia
+158,666,Saint Pierre & Miquelon (France)
+159,670,Saint Vincent & the Grenadines
+160,678,Sao Tome & Principe
+161,683,Saudi Arabia (Red Sea)
+162,684,Saudi Arabia (Persian Gulf)
+163,686,Senegal
+164,690,Seychelles
+165,694,Sierra Leone
+166,702,Singapore
+167,704,Viet Nam
+168,705,Slovenia
+169,706,Somalia
+170,711,Prince Edward Isl. (South Africa)
+171,723,Canary Isl. (Spain)
+172,736,Sudan
+173,740,Suriname
+174,744,Svalbard Isl. (Norway)
+175,760,Syria
+176,768,Togo
+177,772,Tokelau (New Zealand)
+178,776,Tonga
+179,780,Trinidad & Tobago
+180,784,United Arab Emirates
+181,788,Tunisia
+182,793,Turkey (Mediterranean Sea)
+183,794,Turkey (Black Sea)
+184,796,Turks & Caicos Isl. (UK)
+185,798,Tuvalu
+186,804,Ukraine
+187,826,United Kingdom
+188,830,Channel Isl. (UK)
+189,834,Tanzania
+190,842,Hawaii Main Islands (USA)
+191,844,Palmyra Atoll & Kingman Reef (USA)
+192,845,Jarvis Isl. (USA)
+193,846,Howland & Baker Isl. (USA)
+194,848,USA (West Coast)
+195,850,US Virgin Isl.
+196,851,USA (East Coast)
+197,852,USA (Gulf of Mexico)
+198,855,Ascension Isl. (UK)
+199,856,Tristan da Cunha Isl. (UK)
+200,858,Uruguay
+201,862,Venezuela
+202,872,Wake Isl. (USA)
+203,876,Wallis & Futuna Isl. (France)
+204,882,Samoa
+205,891,Montenegro
+206,895,St Paul & Amsterdam Isl. (France)
+207,896,Crozet Isl. (France)
+208,897,Kerguelen Isl. (France)
+209,898,Clipperton Isl.  (France)
+210,899,Corsica (France)
+211,900,Crete (Greece)
+212,901,Sicily (Italy)
+213,902,Sardinia (Italy)
+214,903,Balearic Island (Spain)
+215,904,St Barthelemy (France)
+216,905,St Martin (France)
+217,906,Curacao (Netherlands)
+218,907,Bonaire (Netherlands)
+219,908,Saba and Sint Eustaius (Netherlands)
+220,909,Sint Maarten (Netherlands)
+221,910,South Orkney Islands (UK)
+222,911,Oman (Musandam)
+223,912,Russia (Kara Sea)
+224,913,Russia (Laptev to Chukchi Sea)
+225,914,Sweden (Baltic)
+226,915,Sweden (West Coast)
+227,916,Yemen (Red Sea)
+228,917,Yemen (Arabian Sea)
+229,918,France (Mediterranean)
+230,919,France (Atlantic Coast)
+231,920,Honduras (Pacific)
+232,921,Honduras (Caribbean)
+233,922,Iran (Persian Gulf)
+234,923,Iran (Sea of Oman)
+235,924,Canada (Arctic)
+236,925,Canada (Pacific)
+237,926,Canada (East Coast)
+238,927,Colombia (Caribbean)
+239,928,Colombia (Pacific)
+240,929,Costa Rica (Caribbean)
+241,930,Costa Rica (Pacific)
+242,931,Denmark (Baltic Sea)
+243,932,Denmark (North Sea)
+244,933,Egypt (Mediterranean)
+245,934,Egypt (Red Sea)
+246,935,Guatemala (Caribbean)
+247,936,Guatemala (Pacific)
+248,937,Indonesia (Central)
+249,938,Indonesia (Indian Ocean)
+250,939,Israel (Mediterranean)
+251,940,Israel (Red Sea)
+252,941,Kiribati (Gilbert Islands)
+253,942,Kiribati (Line Islands)
+254,943,Kiribati (Phoenix Islands)
+255,944,Mexico (Atlantic)
+256,945,Mexico (Pacific)
+257,946,Morocco (Central)
+258,947,Morocco (Mediterranean)
+259,948,Morocco (South)
+260,949,Nicaragua (Caribbean)
+261,950,Nicaragua (Pacific)
+262,951,Panama (Caribbean)
+263,952,Panama (Pacific)
+264,953,South Africa (Atlantic Coast)
+265,954,South Africa (Indian Ocean Coast)
+266,956,Thailand (Andaman Sea)
+267,957,Thailand (Gulf of Thailand)
+268,958,"USA (Alaska, Arctic)"
+269,959,"USA (Alaska, Subarctic)"
+270,962,Spain (Mediterranean and Gulf of Cadiz)
+271,963,Spain (Northwest)
+272,966,Turkey (Marmara Sea)
+273,967,Aruba (Netherlands)
+274,968,United Arab Emirates (Fujairah)
+275,969,Brazil (Fernando de Noronha)
+276,970,Brazil (St Paul and St. Peter Archipelago)
+277,971,Japan (Ogasawara Islands)
+278,972,Glorieuse Islands (France)
